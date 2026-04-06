@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 Finance Backend API with RBAC & JWT
 
 ## 📌 Overview
@@ -193,3 +194,6 @@ This project demonstrates:
 The focus is on building a clean, scalable, and maintainable backend system.
 
 ---
+=======
+# finance-Backend
+>>>>>>> 8e147425b1d2dd9739d184ea54c99e733207ec25
